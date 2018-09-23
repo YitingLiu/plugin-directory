@@ -4329,6 +4329,7 @@
   },
   {
     "title": "ElevationShadows",
+    "description": "A sketch plugin to quikly apply consistent elevation shadows.",
     "name": "Elevation-Shadows",
     "owner": "YitingLiu",
     "appcast": "https://raw.githubusercontent.com/YitingLiu/Elevation-Shadows/master/.appcast.xml",
